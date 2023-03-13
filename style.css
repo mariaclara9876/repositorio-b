@@ -1,1 +1,21 @@
 
+
+*  }
+margin: 0 auto ;
+padding: 0;
+box-sizing: border-box;
+font-family: open Sans', sans-serif;
+}
+
+#menu-principal{
+  background-color: rgb(37,37,39);
+}
+
+#menu-principal ul {
+  max-width: 800px;
+  padding: 0;
+}
+
+#menu-principal ul li {
+  display: inline;
+}
