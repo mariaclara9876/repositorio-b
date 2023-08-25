@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <Title>Perfil de Professor</title>
+</head>
+<body>
+    <nav>
+        <ul>
+           <li><a href=´´>INICIO</a ></li>
+           <li><a href=''>PROFESSORES</a></li>
+           <li><a href=''>ALUNOS</li>
+           </ul>
+           </nav>
+</body>
+</html>
