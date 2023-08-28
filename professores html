@@ -10,5 +10,17 @@
            <li><a href=''>ALUNOS</li>
            </ul>
            </nav>
+</nav class='menu-lateral'>
+ <div><a herf='>Prof Jonatas</a></div>
+<div><a herf='>Prof Edina</a></div>
+<div><a herf='>Prof Josimara</a></div>
+<div><a herf='>Prof Marcia</a></div>
+<div><a herf='>Prof Sirlene</a></div>
+<div><a herf='>Prof Edivaldo</a></div>
+<div><a herf='>Prof Rozilda</a></div>
+<div><a herf='>Prof Joaquina</a></div>
+<div><a herf='>Prof Edilene</a></div>
 </body>
 </html>
+<div class='perfil'>
+</div>
