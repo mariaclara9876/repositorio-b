@@ -11,15 +11,16 @@
            </ul>
            </nav>
 </nav class='menu-lateral'>
- <div><a herf='>Prof Jonatas</a></div>
-<div><a herf='>Prof Edina</a></div>
-<div><a herf='>Prof Josimara</a></div>
-<div><a herf='>Prof Marcia</a></div>
-<div><a herf='>Prof Sirlene</a></div>
-<div><a herf='>Prof Edivaldo</a></div>
-<div><a herf='>Prof Rozilda</a></div>
-<div><a herf='>Prof Joaquina</a></div>
-<div><a herf='>Prof Edilene</a></div>
+<form class='botoes'>
+<button type='submit' id='perfil-Jonatas'>Prof. Jonatas</button>
+<button type='submit' id='perfil-Josimara'>Prof. Josimara</button>
+<nav><button type='submit' id='perfil-Rosilda'>Prof. Rosilda</button>
+<button type='submit' id='perfil-Marcia'>Prof. Marcia</button>
+<button type='submit' id='perfil-Edivaldo'>Prof. Edivaldo</button>
+<button type='submit' id='perfil-Edina'>Prof. Edina</button>
+<button type='submit' id='perfil-Edilene'>Prof. Edilene</button>
+<button type='submit' id='perfil-Joaquina'>Prof. Joaquina</button>
+<button type='submit' id='perfil-Sirlene'>Prof. Sirlene</button>
 </body>
 </html>
 <div class='perfil'>
